@@ -1,0 +1,90 @@
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7\Lab7\bin\Debug\Lab7.exe.config
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7\Lab7\bin\Debug\Lab7.exe
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7\Lab7\bin\Debug\Lab7.pdb
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7\Lab7\obj\Debug\Lab7.csproj.AssemblyReference.cache
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7\Lab7\obj\Debug\Lab7.Form1.resources
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7\Lab7\obj\Debug\Lab7.csproj.GenerateResource.cache
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7\Lab7\obj\Debug\Lab7.exe
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7\Lab7\obj\Debug\Lab7.pdb
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.3\Lab7\bin\Debug\Lab7.exe.config
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.3\Lab7\bin\Debug\Lab7.exe
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.3\Lab7\bin\Debug\Lab7.pdb
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.3\Lab7\obj\Debug\Lab7.csproj.AssemblyReference.cache
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.3\Lab7\obj\Debug\Lab7.Form1.resources
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.3\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.3\Lab7\obj\Debug\Lab7.csproj.GenerateResource.cache
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.3\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.3\Lab7\obj\Debug\Lab7.exe
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.3\Lab7\obj\Debug\Lab7.pdb
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.4\Lab7\bin\Debug\Lab7.exe.config
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.4\Lab7\bin\Debug\Lab7.exe
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.4\Lab7\bin\Debug\Lab7.pdb
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.4\Lab7\obj\Debug\Lab7.csproj.AssemblyReference.cache
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.4\Lab7\obj\Debug\Lab7.Form1.resources
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.4\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.4\Lab7\obj\Debug\Lab7.csproj.GenerateResource.cache
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.4\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.4\Lab7\obj\Debug\Lab7.exe
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.4\Lab7\obj\Debug\Lab7.pdb
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.5\Lab7\bin\Debug\Lab7.exe.config
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.5\Lab7\bin\Debug\Lab7.exe
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.5\Lab7\bin\Debug\Lab7.pdb
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.5\Lab7\obj\Debug\Lab7.csproj.AssemblyReference.cache
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.5\Lab7\obj\Debug\Lab7.Form1.resources
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.5\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.5\Lab7\obj\Debug\Lab7.csproj.GenerateResource.cache
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.5\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.5\Lab7\obj\Debug\Lab7.exe
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.5\Lab7\obj\Debug\Lab7.pdb
+C:\Users\Monolit\Desktop\ООП\Lab7.5\Lab7\bin\Debug\Lab7.exe.config
+C:\Users\Monolit\Desktop\ООП\Lab7.5\Lab7\bin\Debug\Lab7.exe
+C:\Users\Monolit\Desktop\ООП\Lab7.5\Lab7\bin\Debug\Lab7.pdb
+C:\Users\Monolit\Desktop\ООП\Lab7.5\Lab7\obj\Debug\Lab7.csproj.AssemblyReference.cache
+C:\Users\Monolit\Desktop\ООП\Lab7.5\Lab7\obj\Debug\Lab7.Form1.resources
+C:\Users\Monolit\Desktop\ООП\Lab7.5\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+C:\Users\Monolit\Desktop\ООП\Lab7.5\Lab7\obj\Debug\Lab7.csproj.GenerateResource.cache
+C:\Users\Monolit\Desktop\ООП\Lab7.5\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+C:\Users\Monolit\Desktop\ООП\Lab7.5\Lab7\obj\Debug\Lab7.exe
+C:\Users\Monolit\Desktop\ООП\Lab7.5\Lab7\obj\Debug\Lab7.pdb
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.6.3\Lab7\bin\Debug\Lab7.exe.config
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.6.3\Lab7\bin\Debug\Lab7.exe
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.6.3\Lab7\bin\Debug\Lab7.pdb
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.6.3\Lab7\obj\Debug\Lab7.csproj.AssemblyReference.cache
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.6.3\Lab7\obj\Debug\Lab7.Form1.resources
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.6.3\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.6.3\Lab7\obj\Debug\Lab7.csproj.GenerateResource.cache
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.6.3\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.6.3\Lab7\obj\Debug\Lab7.exe
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.6.3\Lab7\obj\Debug\Lab7.pdb
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.6.4\Lab7\bin\Debug\Lab7.exe.config
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.6.4\Lab7\bin\Debug\Lab7.exe
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.6.4\Lab7\bin\Debug\Lab7.pdb
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.6.4\Lab7\obj\Debug\Lab7.csproj.AssemblyReference.cache
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.6.4\Lab7\obj\Debug\Lab7.Form1.resources
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.6.4\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.6.4\Lab7\obj\Debug\Lab7.csproj.GenerateResource.cache
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.6.4\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.6.4\Lab7\obj\Debug\Lab7.exe
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.6.4\Lab7\obj\Debug\Lab7.pdb
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.7\Lab7\bin\Debug\Lab7.exe.config
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.7\Lab7\bin\Debug\Lab7.exe
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.7\Lab7\bin\Debug\Lab7.pdb
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.7\Lab7\obj\Debug\Lab7.csproj.AssemblyReference.cache
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.7\Lab7\obj\Debug\Lab7.Form1.resources
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.7\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.7\Lab7\obj\Debug\Lab7.csproj.GenerateResource.cache
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.7\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.7\Lab7\obj\Debug\Lab7.exe
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7.7\Lab7\obj\Debug\Lab7.pdb
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7 version 7.7\Lab7\bin\Debug\Lab7.exe.config
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7 version 7.7\Lab7\bin\Debug\Lab7.exe
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7 version 7.7\Lab7\bin\Debug\Lab7.pdb
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7 version 7.7\Lab7\obj\Debug\Lab7.csproj.AssemblyReference.cache
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7 version 7.7\Lab7\obj\Debug\Lab7.Form1.resources
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7 version 7.7\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7 version 7.7\Lab7\obj\Debug\Lab7.csproj.GenerateResource.cache
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7 version 7.7\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7 version 7.7\Lab7\obj\Debug\Lab7.exe
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab7 version 7.7\Lab7\obj\Debug\Lab7.pdb
